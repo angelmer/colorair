@@ -1,3 +1,10 @@
 body {
   width: 100%;
+  background-color: #45b2ce;
+}
+body a {
+  color: #55ce30;
+}
+body p {
+  color: #6d37b4;
 }
